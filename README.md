@@ -25,8 +25,8 @@ width="400" alt="coding">
 <p align="left"> <a href="https://twitter.com/md_swaley" target="blank"><img src="https://img.shields.io/twitter/follow/md_swaley?logo=twitter&style=for-the-badge" alt="md_swaley" /></a> </p>
 
 - 📫 How to reach me **mdswaley075@gmail.com**
-
-- ⚡ Fun fact **I am funny for someone tease my friend😉.**
+- 👨‍💻 All of my projects are available at [https://github.com/mdswaley](https://github.com/mdswaley)
+- ⚡ Fun fact **I am funny for someone to tease my friend😉.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
