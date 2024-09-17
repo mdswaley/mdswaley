@@ -26,7 +26,6 @@ width="400" alt="coding">
 
 - 📫 How to reach me **mdswaley075@gmail.com**
 - 👨‍💻 All of my projects are available at [https://github.com/mdswaley](https://github.com/mdswaley)
-- ⚡ Fun fact **I am funny for someone to tease my friend😉.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
