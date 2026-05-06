@@ -30,11 +30,11 @@ width="400" alt="coding">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/@md-swaley" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@md-swaley" height="30" width="40" /></a>
-<a href="https://twitter.com/md_swaley" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="md_swaley" height="30" width="40" /></a>
+<a href="https://x.com/md_swaley" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="md_swaley" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/md-swaley-034a1126b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md swaley" height="30" width="40" /></a>
 <a href="https://fb.com/md swaley" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md swaley" height="30" width="40" /></a>
-<a href="https://instagram.com/md_swaley" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="md_swaley" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@mdswaley075" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@mdswaley075" height="30" width="40" /></a>
+<a href="https://www.instagram.com/md_swaley/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="md_swaley" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/mdswaley075" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@mdswaley075" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/mdswaley075" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mdswaley075" height="30" width="40" /></a>
 </p>
 
